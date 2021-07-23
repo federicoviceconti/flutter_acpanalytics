@@ -34,5 +34,5 @@ android {
 }
 
 dependencies {
-    api 'com.adobe.marketing.mobile:analytics:1.+'
+    api 'com.adobe.marketing.mobile:analytics:1.2.6'
 }
